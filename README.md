@@ -30,7 +30,7 @@ I believe in continuous learning. Here is what I am currently exploring:
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Artificial Intelligence** | Python, Pandas, NumPy, Scikit-learn, Jupyter |
+| **Artificial Intelligence** | Python, Pandas, NumPy, Scikit-learn |
 | **Data Analytics** | Data Visualization, Predictive Modeling, Statistical Analysis |
 | **Big Data** | Hadoop (Learning) |
 | **Web Development** | PHP, MySQL, HTML5, CSS3 (Secondary Skill) |
@@ -42,6 +42,17 @@ I believe in continuous learning. Here is what I am currently exploring:
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jignal123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="jignal123's stats" height="150"/>
-</p>
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jignal-gajjar-92304b238)
+
+### 🛠️ Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
