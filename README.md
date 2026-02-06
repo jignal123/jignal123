@@ -17,6 +17,9 @@ I am a software developer transitioning into **Data Science and Artificial Intel
 <a href="https://www.linkedin.com/in/jignal-gajjar-92304b238" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
+  <a href="https://www.instagram.com/jignalgajjar/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+</a>
 </p>
 
 ### Languages and Tools:
