@@ -7,17 +7,21 @@ I am a software developer transitioning into **Data Science and Artificial Intel
 
 ![Profile views](https://komarev.com/ghpvc/?username=jignal123&label=Profile%20views&color=0e75b6&style=flat)
 
+---
+
 - 📫 **How to reach me:** [gajjarjignal2020@gmail.com]
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/jignal-gajjar-92304b238" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="left">
+<a href="https://www.linkedin.com/in/jignal-gajjar-92304b238" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
+</p>
 
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,c,java,js,php,mysql,mongodb,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,r,c,java,js,php,mysql,mongodb,postman,hadoop,html,css,git&theme=dark" />
   </a>
 </p>
 
