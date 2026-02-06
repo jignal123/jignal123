@@ -12,7 +12,6 @@ I am a software developer transitioning into **Data Science and Artificial Intel
 
 I am currently architecting a smart platform that uses Data Analytics to empower farmers.
 * **🧠 AI Modules:**
-    * **Fertilizer Recommendation Engine:** Uses NPK values and soil data to recommend optimal fertilizers.
     * **Price Prediction Model:** Analyzing historical crop data to forecast market trends.
     * **AI Chatbot:** Domain-specific NLP model restricted to agricultural queries.
 * **🌍 Localization:** Intelligent translation logic for Gujarati, Hindi, and Marathi.
