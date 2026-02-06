@@ -1,6 +1,6 @@
 # Hi there, I'm Jignal Gajjar! 👋
 
-### 🎓 MSc(IT) Student | 🚀 Full Stack Developer | 🤖 AI Enthusiast
+### 🎓 MSc(IT) Student | 🤖 AI Enthusiast
 
 I am currently pursuing my **Master of Science in Information Technology** at **GLS University**, where I recently secured the **1st Rank** in Semester 1 with a **9.18 CGPA**. I am passionate about solving real-world problems using technology, specifically in the domains of Agriculture Tech and Education Management.
 
