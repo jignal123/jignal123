@@ -5,9 +5,10 @@
 
 I am a software developer transitioning into **Data Science and Artificial Intelligence**. My current academic focus is on **Data Analytics**, where I am bridging the gap between traditional web systems and intelligent, data-driven decision-making.
 
+---
+
 ![Profile views](https://komarev.com/ghpvc/?username=jignal123&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
 - 📫 **How to reach me:** [gajjarjignal2020@gmail.com]
 
@@ -21,7 +22,7 @@ I am a software developer transitioning into **Data Science and Artificial Intel
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,c,java,js,php,mysql,mongodb,postman,hadoop,html,css,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,r,c,java,js,php,mysql,mongodb,postman,html,css,git&theme=dark" />
   </a>
 </p>
 
