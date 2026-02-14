@@ -84,6 +84,3 @@ I am bridging the gap between farmers and the market using Data Analytics.
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jignal123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="jignal123's stats" height="150"/>
-</p>
