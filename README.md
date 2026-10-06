@@ -6,7 +6,7 @@
 *MSc(IT) @ GLS University | Rank 1 (9.18 CGPA, 9.04 SGPA)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jignal-gajjar-92304b238)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jignalgajjar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajjarjignal2020@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jignalgajjar/)
 
@@ -41,7 +41,7 @@ Former Web Application Team Lead transitioning into **Data Science, Machine Lear
 - **Crop Price Forecasting:** Built predictive models using **XGBoost** and **LightGBM** to forecast commodity mandi prices and assist farmers in market timing.
 - **Architecture:** Full-stack solution powered by Django REST Framework, MySQL, React Web Portal, and Flutter Mobile App. Deployed on **AWS (EC2 / RDS)**.
 
-#### 🔥 [Wildfire Early Alert & Action System](https://github.com/jignal123)
+#### 🔥 [Wildfire Early Alert & Action System](https://github.com/jignal123/Wildfire-Rapid-Action-Prototype)
 *GDG Solution Challenge AI Prototype*
 - **Multimodal AI:** Utilized **Gemini Vision API** for real-time wildfire identification and risk assessment.
 - **Tech Stack:** Django, React, Aiven MySQL, and Render deployment.
